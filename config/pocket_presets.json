@@ -1,0 +1,3 @@
+[
+  { "name": "inj iron", "priority": 100, "item_whitelist": [ "inj_iron" ], "item_blacklist": [  ], "category_whitelist": [  ], "category_blacklist": [  ], "collapsed": true, "disabled": false, "unload": true, "player_edited": false }
+]

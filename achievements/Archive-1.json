@@ -1,0 +1,19 @@
+{ 
+  "achievement_version": 1, 
+  "avatar_name": "Archive",
+  "achievements": [ 
+    "achievement_kill_zombie", 
+    "achievement_kill_insect", 
+    "achievement_lvl_4_fabrication", 
+    "achievement_survive_one_day", 
+    "achievement_kill_10_monsters",
+    "achievement_kill_robot",
+    "achievement_kill_100_monsters",
+    "achievement_survive_7_days",
+    "achievement_survive_28_days",
+    "achievement_break_major_limbs",
+    "escaped_the_cataclysm",
+    "achievement_reach_mid_z_level",
+    "achievement_reach_mine"
+  ]
+}
