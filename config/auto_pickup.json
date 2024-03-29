@@ -11,5 +11,9 @@
   { "rule": "*wooden arrow", "active": true, "exclude": false },
   { "rule": "duct tape", "active": true, "exclude": false },
   { "rule": "electronic scrap", "active": true, "exclude": false },
-  { "rule": "superglue", "active": true, "exclude": false }
+  { "rule": "superglue", "active": true, "exclude": false },
+  { "rule": "alcohol wipe", "active": true, "exclude": false },
+  { "rule": "adhesive bandage", "active": true, "exclude": false },
+  { "rule": "antiseptic", "active": true, "exclude": false },
+  { "rule": "bandage", "active": true, "exclude": false }
 ]
