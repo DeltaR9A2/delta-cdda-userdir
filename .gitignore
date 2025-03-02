@@ -3,3 +3,4 @@ cache
 mods
 graveyard
 config/debug.log
+config/crash.log

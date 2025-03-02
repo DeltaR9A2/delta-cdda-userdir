@@ -1,5 +1,5 @@
 {
-  "typeface": [ "data/font/FiraMono-Bold.ttf", "data/font/Terminus.ttf", "data/font/unifont.ttf" ],
+  "typeface": [ "data/font/MartianMono-CnMd.ttf", "data/font/Terminus.ttf", "data/font/unifont.ttf" ],
   "map_typeface": [ "data/font/Terminus.ttf", "data/font/unifont.ttf" ],
   "overmap_typeface": [ "data/font/Terminus.ttf", "data/font/unifont.ttf" ]
 }

@@ -1,5 +1,5 @@
 {
   "type": "MOD_INFO",
   "id": "user:default",
-  "dependencies": [ "dda", "no_npc_food", "personal_portal_storms", "no_fungal_growth", "sees_player_retro", "delta_no_pair_of" ]
+  "dependencies": [ "dda", "no_npc_food", "personal_portal_storms", "no_fungal_growth", "sees_player_retro", "delta_no_pair_of", "delta_ethr_corps" ]
 }
