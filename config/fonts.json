@@ -1,5 +1,7 @@
 {
-  "typeface": [ "data/font/MartianMono-CnMd.ttf", "data/font/Terminus.ttf", "data/font/unifont.ttf" ],
-  "map_typeface": [ "data/font/Terminus.ttf", "data/font/unifont.ttf" ],
-  "overmap_typeface": [ "data/font/Terminus.ttf", "data/font/unifont.ttf" ]
+  "//": "See docs/user-guides/FONT_OPTIONS.md for an explanation of this file.",
+  "typeface": [ { "path": "data/font/FSEX302.ttf", "hinting": "Bitmap" }, { "path": "data/font/Terminus.ttf", "hinting": "Bitmap" }, { "path": "data/font/unifont.ttf", "hinting": "Bitmap" } ],
+  "gui_typeface": [ { "path": "data/font/FSEX302.ttf", "hinting": "Bitmap" }, { "path": "data/font/Terminus.ttf", "hinting": "Bitmap" }, { "path": "data/font/unifont.ttf", "hinting": "Bitmap" } ],
+  "map_typeface": [ { "path": "data/font/FSEX302.ttf", "hinting": "Bitmap" }, { "path": "data/font/Terminus.ttf", "hinting": "Bitmap" }, { "path": "data/font/unifont.ttf", "hinting": "Bitmap" } ],
+  "overmap_typeface": [ { "path": "data/font/FSEX302.ttf", "hinting": "Bitmap" }, { "path": "data/font/Terminus.ttf", "hinting": "Bitmap" }, { "path": "data/font/unifont.ttf", "hinting": "Bitmap" } ]
 }

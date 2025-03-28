@@ -1,5 +1,5 @@
 {
   "type": "MOD_INFO",
   "id": "user:default",
-  "dependencies": [ "dda", "no_npc_food", "personal_portal_storms", "no_fungal_growth", "sees_player_retro", "delta_no_pair_of", "delta_ethr_corps" ]
+  "dependencies": [ "dda", "aftershock", "aftershock_exoplanet", "no_npc_food", "personal_portal_storms", "delta_ethr_corps", "delta_abstract_crafting", "delta_virtual_crafting", "delta_bug_workarounds", "delta_no_pair_of" ]
 }
